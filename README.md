@@ -38,16 +38,13 @@ The data from folder *test/Inertial Signals* and *train/Inertial Signals* is not
         .-features_info.txt
         .-README.txt
 ```
-
 3. Copy the run_analysis.R file from repo to the working directory.
 4. Execute the following code:
-
 ```{r}
 > source('<Working Directory>/run_analysis.R')
 > run_analysis()
 ```
 5. The function will print the progress statements.
-
 ```
 [1] "Read features.txt ."
 [1] "Read X_train.txt ."
@@ -63,7 +60,6 @@ The data from folder *test/Inertial Signals* and *train/Inertial Signals* is not
 [1] "Generated summaryData.csv with averages of completeData grouped by Subject,Activity."
 [1] "END."
 ```
-
 6. Once completed, two new CSV file should be available in the working directory.
 
 
