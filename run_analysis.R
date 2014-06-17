@@ -61,13 +61,14 @@ run_analysis <- function(){
     print("Created filtered data with means and std.")
     
     ## 4. Appropriately labels the data set with descriptive variable names. 
-        # The variables have already been properly defined
+    # remove the - and () from the column names
+    colnames(filteredData) <- gsub("\\)|\\(|-","",names(filteredData))
     
     ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
     
     summaryData <- aggregate(filteredData[,3:81], by=list(filteredData$Subject, filteredData$Activity),FUN=mean, na.rm=TRUE)
     
-    func <- function(x){paste("Avg-",x,sep="")}
+    func <- function(x){paste("Avg",x,sep="")}
     newAvgColNames <- lapply(names(filteredData[,3:81]),FUN = func)
     colnames(summaryData) <- c("Subject","Activity",newAvgColNames)
 
