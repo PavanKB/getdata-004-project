@@ -10,8 +10,11 @@ The contents are :
 5. README.md
 
 The R file **run_analysis.R** contains the function run_analysis() that will analyse the
-data from Samsung Galaxy S2 during activities. The function will process the training and testing 
-data and combine them generating a data set(**completeData.csv**) containng the means and std of various measurements. 
+data from Samsung Galaxy S2 during activities. This data was sourced from :
+```
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+```
+The function will process the training and testing data and combine them generating a data set(**completeData.csv**) containng the means and std of various measurements. 
 
 Another data set (**summaryData.csv**) is also created that contains the averages, grouped by Subject and Activity. 
 

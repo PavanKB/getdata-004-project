@@ -14,317 +14,316 @@ Activity
 
 tBodyAcc-mean()-X	9	
 	Mean of time domain signals from accelerometer due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAcc-mean()-Y	9
 	Mean of time domain signals from accelerometer due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAcc-mean()-Z	9
 	Mean of time domain signals from accelerometer due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAcc-std()-X	9
 	Standard Deviation of time domain signals from accelerometer due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAcc-std()-Y	9
 	Standard Deviation of time domain signals from accelerometer due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAcc-std()-Z	9
 	Standard Deviation of time domain signals from accelerometer due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAcc-mean()-X	9
 	Mean of time domain signals from accelerometer due to gravity along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAcc-mean()-Y	9
 	Mean of time domain signals from accelerometer due to gravity along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAcc-mean()-Z	9
 	Mean of time domain signals from accelerometer due to gravity along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAcc-std()-X	9
 	Standard Deviation of time domain signals from accelerometer due to gravity along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAcc-std()-Y	9
 	Standard Deviation of time domain signals from accelerometer due to gravity along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAcc-std()-Z	9
 	Standard Deviation of time domain signals from accelerometer due to gravity along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerk-mean()-X	9
 	Mean of jerk signal from accelerometer due to body acceleration along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerk-mean()-Y	9
 	Mean of jerk signal from accelerometer due to body acceleration along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerk-mean()-Z	9
 	Mean of jerk signal from accelerometer due to body acceleration along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerk-std()-X	9
 	Standard Deviation of jerk signal from accelerometer due to body acceleration along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerk-std()-Y	9
 	Standard Deviation of jerk signal from accelerometer due to body acceleration along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerk-std()-Z	9
 	Standard Deviation of jerk signal from accelerometer due to body acceleration along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyGyro-mean()-X	9
 	Mean of time domain signals from gyroscope due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyro-mean()-Y	9
 	Mean of time domain signals from gyroscope due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyro-mean()-Z	9
 	Mean of time domain signals from gyroscope due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyro-std()-X	9
 	Standard Deviation of time domain signals from gyroscope due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyro-std()-Y	9
 	Standard Deviation of time domain signals from gyroscope due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyro-std()-Z	9
 	Standard Deviation of time domain signals from gyroscope due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerk-mean()-X	9
 	Mean of time domain jerk signal from gyroscope due to body acceleration along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerk-mean()-Y	9
 	Mean of time domain jerk signal from gyroscope due to body acceleration along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerk-mean()-Z	9
 	Mean of time domain jerk signal from gyroscope due to body acceleration along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerk-std()-X	9
 	Standard Deviation of time domain jerk signal from gyroscope due to body acceleration along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerk-std()-Y	9
 	Standard Deviation of time domain jerk signal from gyroscope due to body acceleration along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerk-std()-Z	9
 	Standard Deviation of time domain jerk signal from gyroscope due to body acceleration along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyAccMag-mean()	9
 	Mean of magnitude of time domain acceleration signal from accelerometer due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccMag-std()	9
 	Standard Deviation of magnitude of time domain acceleration signal from accelerometer due to boady acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAccMag-mean()	9
 	Mean of magnitude of time domain acceleration signal from accelerometer due to gravity
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tGravityAccMag-std()	9
 	Standard Deviation of magnitude of time domain acceleration signal from accelerometer due to gravity
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerkMag-mean()	9
 	Mean of magnitude of time domain jerk signal from accelerometer due to body acceleration 
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyAccJerkMag-std()	9
 	Standard Deviation of magnitude of jerk signal from accelerometer due to body acceleration 
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 tBodyGyroMag-mean()	9
 	Mean of magnitude of time domain signal from Gyroscope due to body acceleration 
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroMag-std()	9
 	Standard Deviation of magnitude of time domain signal from Gyroscope due to body acceleration 
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerkMag-mean()	9
 	Mean of magnitude of time domain jerk signal from Gyroscope due to body acceleration 
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 tBodyGyroJerkMag-std()	9
 	Standard Deviation of magnitude of time domain jerk signal from Gyroscope due to body acceleration 
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyAcc-mean()-X	9
 	Mean of frequency domain signals from accelerometer due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAcc-mean()-Y	9
 	Mean of frequency domain signals from accelerometer due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 		
 fBodyAcc-mean()-Z	9
 	Mean of frequency domain signals from accelerometer due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAcc-std()-X	9
 	Standard Deviation of frequency domain signals from accelerometer due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAcc-std()-Y	9
 	Standard Deviation of frequency domain signals from accelerometer due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAcc-std()-Z	9
 	Standard Deviation of frequency domain signals from accelerometer due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAcc-meanFreq()-X	9
 	Mean of frequency of signal from accelerometer due to body acceleration along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAcc-meanFreq()-Y	9
 	Mean of frequency of signal from accelerometer due to body acceleration along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAcc-meanFreq()-Z	9
 	Mean of frequency of signal from accelerometer due to body acceleration along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
 
 fBodyAccJerk-mean()-X	9
 	Mean of frequency domain signals from accelerometer due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAccJerk-mean()-Y	9
 	Mean of frequency domain signals from accelerometer due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAccJerk-mean()-Z	9
 	Mean of frequency domain signals from accelerometer due to acceleration of body along Z axis
-		-1.00000000..1.00000000
-
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAccJerk-std()-X	9
 	Standard Deviation of frequency domain signals from accelerometer due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAccJerk-std()-Y	9
 	Standard Deviation of frequency domain signals from accelerometer due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAccJerk-std()-Z	9
 	Standard Deviation of frequency domain signals from accelerometer due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAccJerk-meanFreq()-X	9
 	Mean of frequency of jerk signal from accelerometer due to body acceleration along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
 
 fBodyAccJerk-meanFreq()-Y	9
 	Mean of frequency of jerk signal from accelerometer due to body acceleration along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
 
 fBodyAccJerk-meanFreq()-Z	9
 	Mean of frequency of jerk signal from accelerometer due to body acceleration along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
 
 fBodyGyro-mean()-X	9
 	Mean of frequency domain signals from Gyroscope due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-mean()-Y	9
 	Mean of frequency domain signals from Gyroscope due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-mean()-Z	9
 	Mean of frequency domain signals from Gyroscope due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-std()-X	9
 	Standard Deviation of frequency domain signals from Gyroscope due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-std()-Y	9
 	Standard Deviation of frequency domain signals from Gyroscope due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-std()-Z	9
 	Standard Deviation of frequency domain signals from Gyroscope due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-meanFreq()-X	9
 	Mean of frequency of signals from Gyroscope due to acceleration of body along X axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-meanFreq()-Y	9
 	Mean of frequency of signals from Gyroscope due to acceleration of body along Y axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyGyro-meanFreq()-Z	9
 	Mean of frequency of signals from Gyroscope due to acceleration of body along Z axis
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyAccMag-mean()	9
 	Mean of magnitude of frequency domain acceleration signal from accelerometer due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyAccMag-std()	9
 	Standard Deviation of magnitude of frequency domain acceleration signal from accelerometer due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2 
 
 fBodyAccMag-meanFreq()	9
 	Mean of frequency of acceleration signal from accelerometer due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
 
 fBodyBodyAccJerkMag-mean()	9
 	Mean of magnitude of frequency domain jerk signal from accelerometer due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 
 
 fBodyBodyAccJerkMag-std()	9
 	Standard Deviation of magnitude of frequency domain jerk signal from accelerometer due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 m/s^2
 
 fBodyBodyAccJerkMag-meanFreq()	9
 	Mean of frequency of jerk signal from accelerometer due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
 
 fBodyBodyGyroMag-mean()	9
 	Mean of magnitude of frequency domain signal from Gyroscope due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyBodyGyroMag-std()	9
 	Standard Deviation of magnitude of frequency domain signal from Gyroscope due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyBodyGyroMag-meanFreq()	9
 	Mean of frequency of signal from gyroscope due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
 
 fBodyBodyGyroJerkMag-mean()	9
 	Mean of magnitude of frequency domain jerk signal from Gyroscope due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyBodyGyroJerkMag-std()	9
 	Standard Deviation of magnitude of frequency domain jerk signal from Gyroscope due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 rad/s
 
 fBodyBodyGyroJerkMag-meanFreq()	9
 	Mean of frequency of jerk signal from gyroscope due to body acceleration
-		-1.00000000..1.00000000
+		-1.00000000..1.00000000 Hz
